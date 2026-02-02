@@ -30,8 +30,8 @@ A comprehensive hackathon management platform built with **Python**. Features in
 
 ## 🎓 Education
 
-**University of Waterloo** - Computer Science  
-*Expected Graduation: 2029*
+**University of Waterloo** - Computer Engineering  
+*Expected Graduation: 2030*
 
 ## 🌱 What I'm Working On
 
