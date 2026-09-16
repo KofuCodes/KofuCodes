@@ -1,48 +1,56 @@
-# Hi, I'm Ethan (KofuCodes) 👋
+<p align="center">
+  <strong>Ethan Tran</strong><br>
+  <sub>Computer Engineering · University of Waterloo · Class of 2030</sub>
+</p>
 
-I'm a Computer Engineering student at the University of Waterloo passionate about building innovative solutions that blend hardware and software to solve real-world problems.
-
-## 🚀 Featured Projects
-
-### [Personal Website](https://github.com/KofuCodes/personal-website)
-A modern, responsive portfolio website built with **TypeScript** (96.6%) and **HTML** (3.4%). Showcasing my projects, skills, and experience with a clean, professional design.
-
-### HackPad
-An innovative collaborative coding platform designed to enhance hackathon experiences and real-time code collaboration.
-
-### [Gundam Rangers Morpher](https://github.com/KofuCodes/Gundam-Rangers)
-A Gundam-themed power ranger morpher built with **C++**. A fun hardware project combining my love for anime and embedded systems!
-
-### ReMind - Delirium Detection Device
-A physical Simon Says-style memory game device designed to help detect hospital-induced delirium in patients. 
-- **Hardware Component**: Interactive device for cognitive testing
-- **Real-time Web Dashboard**: Tracks patient scores and compares them against healthy baselines
-- **Purpose**: Aids healthcare professionals in early detection of mental fatigue and delirium by analyzing gameplay performance patterns
-
-### [HackPad](https://github.com/KofuCodes/hackpad)
-A comprehensive hackathon management platform built with **Python**. Features include project submissions, team management, and real-time collaboration tools.
-
-## 💻 Tech Stack
-
-- **Languages**: TypeScript, JavaScript, Python, C++, HTML/CSS
-- **Current Focus**: Full-stack web development, embedded systems
-- **Interests**: Healthcare technology, IoT devices, game development
-
-## 🎓 Education
-
-**University of Waterloo** - Computer Engineering  
-*Expected Graduation: 2030*
-
-## 🌱 What I'm Working On
-
-- Enhancing my personal website with new features
-- Exploring embedded systems and IoT applications
-- Building projects that make a difference in healthcare and education
-
-## 📫 Let's Connect!
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects!
+<p align="center">
+  <a href="https://www.ethantran.ca">ethantran.ca</a> (<a href="https://github.com/KofuCodes/personal-website">source</a>) ·
+  <a href="https://linkedin.com/in/ethantrann">LinkedIn</a> ·
+  <a href="https://www.instagram.com/ethan.trrann/">Instagram</a> ·
+  <a href="mailto:e64tran@uwaterloo.ca">e64tran@uwaterloo.ca</a>
+</p>
 
 ---
 
-*"Code with purpose, build with passion"*
+I like building things you can hold: keypads, morphers, handheld consoles, and the software that makes them go. Somewhere between embedded systems and the web, with detours into healthcare tech and the occasional game.
+
+<sub>LANGUAGES</sub><br>
+TypeScript · JavaScript · Python · C++
+
+<sub>NOW</sub><br>
+Learning ROS 2 and control systems. Reading about RLMs and recursive self-improvement. Working toward contributing to NVIDIA.
+
+<sub>SELECTED WORK</sub>
+
+[**TetriPad**](https://github.com/KofuCodes/hackpad)<br>
+A hackpad built to play Tetris. Four Cherry MX switches in a D-pad pyramid on a XIAO RP2040, with SK6812 LEDs, a tiny OLED, and a custom 3D-printed case. Firmware and hardware, made for Hack Club's Highway.
+
+[**Gundam Ranger Morpher**](https://github.com/KofuCodes/Gundam-Rangers) · [demo](https://youtube.com/shorts/w1XKAc6peXA)<br>
+A Gundam-themed Power Rangers morpher. RFID reads "transformation chips", NeoPixels animate. Custom PCB, 3D-printed shell with wings. C++.
+
+[**ReMind**](https://github.com/KofuCodes/ReMind) · [live](https://kofucodes.github.io/ReMind/)<br>
+A Simon-Says-style memory device and a real-time dashboard, built to help detect hospital-induced delirium by tracking patient scores against healthy baselines.
+
+[**Coloradio**](https://github.com/KofuCodes/Coloradio) · [live](https://kofucodes.github.io/Coloradio/)<br>
+A synesthesia simulator. Reads the dominant color temperature through your camera and plays warm- or cool-toned music to match.
+
+[**Hack Station Portable**](https://github.com/KofuCodes/Hack-Station-Portable)<br>
+A handheld console: Raspberry Pi, 5" capacitive touchscreen, PiSugar 3 Plus battery, RetroPie. CAD, schematic, and BOM included.
+
+<details>
+<summary><sub>MORE</sub></summary>
+<br>
+
+[**Fianna-Website**](https://github.com/KofuCodes/Fianna-Website) · [live](https://fianna-website.vercel.app)<br>
+A journal-themed portfolio for UX designer Fianna Tran. Vanilla HTML/CSS/JS, self-drawing SVG doodles, parallax.
+
+[**HammerHacks 2024**](https://hammerhacks2024.wcagas.com)<br>
+Co-organized the first high school hackathon for Hamilton students. 150+ participants, $12,000 in sponsorships.
+
+</details>
+
+---
+
+<p align="center">
+  <sub>Shoots city architecture on a Sony Cybershot. Plays League of Legends. Can quit whenever.</sub>
+</p>
