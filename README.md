@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Ethan Tran</strong><br>
-  <sub>Computer Engineering · University of Waterloo · Class of 2030</sub>
+  <sub>Computer Engineering · University of Waterloo · Class of 2031</sub>
 </p>
 
 <p align="center">
